@@ -1,5 +1,5 @@
 
-
+/*Text styling*/
 
 h1 {
   font-family: "Caprasimo", serif;
@@ -59,9 +59,7 @@ h1 {
  		margin-bottom: 20%;
  		}
 
- /*	img {
- 		float: right;
- 	}*/
+/*Further side based styling*/
 
 .rightparagraph {
 	position: inherit;
@@ -106,7 +104,7 @@ h1 {
 }
 
 
-
+/*Left and right styling for hot and cold pages*/
 
 .imagespacing2{
 	width: 100%;
@@ -136,7 +134,7 @@ h1 {
 
 
 
-
+/*nav bar experimentation*/
 .navcontainer{
 	background-color: saddlebrown;
 	width: 100%;
